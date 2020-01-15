@@ -47,7 +47,7 @@ elif len(sys.argv) == 1:
   try:
     print(calendar.TextCalendar().formatmonth(cur_year, cur_month))
   except:
-    sys.exit("what have you done")
+    sys.exit("John Wick, what have you done?")
 
 
 else:
